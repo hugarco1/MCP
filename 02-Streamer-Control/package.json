@@ -1,0 +1,22 @@
+{
+  "name": "02-streamer-control",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0",
+    "path": "^0.12.7",
+    "promise-fs": "^2.1.1",
+    "url": "^0.11.4"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3"
+  }
+}
